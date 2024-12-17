@@ -1,3 +1,3 @@
 # Yatrademo
 This is my first repository.
-<h1>Author Nirmal thapa</h1>
+<h1>Author Nirmal</h1>
